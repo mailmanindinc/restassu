@@ -1,0 +1,7 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Jan 06 20:04:14 EST 2017
+com/mailman/test/restassu/stories/post.story=10000
+threads=1
+total=25000
+threadAverage=25000
+com/mailman/test/restassu/stories/my.story=15000

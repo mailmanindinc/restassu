@@ -1,0 +1,7 @@
+<story path="com/mailman/test/restassu/stories/post.story" title="">
+<scenario keyword="Scenario:" title="Create posts and validate those posts">
+<step outcome="successful">Given Data for Posts</step>
+<step outcome="successful">When Posts are created</step>
+<step outcome="successful">Then Validate the cretaed posts</step>
+</scenario>
+</story>

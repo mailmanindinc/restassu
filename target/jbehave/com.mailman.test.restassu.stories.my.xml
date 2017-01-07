@@ -1,0 +1,7 @@
+<story path="com/mailman/test/restassu/stories/my.story" title="">
+<scenario keyword="Scenario:" title="A scenario with some pending steps">
+<step outcome="successful">Given I am a test step</step>
+<step outcome="successful">When a good soul will implement me</step>
+<step outcome="successful">Then I shall be happy</step>
+</scenario>
+</story>
